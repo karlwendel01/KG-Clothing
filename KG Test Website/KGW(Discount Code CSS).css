@@ -1,0 +1,78 @@
+header{
+	color: #037bfc;
+	background-color: dimgray;
+	text-align: center;
+}
+heading{
+	text-align: center;
+}
+
+body{
+	background-color: #03a1fc;
+}
+
+.link{
+	float: left;
+	width: 18%;
+	border: 2px solid dimgray;
+	box-sizing: border-box;
+	background-color: gray; 
+	margin: 0px 4px 4px 4px;
+}
+
+.clr{
+	clear: both;
+}
+.new1 hr{
+	border: 1px solid dimgray;
+	width: 100%;
+}
+
+a:visited{
+	color: black;
+}
+a:hover{
+	color: red;
+}
+a{
+	text-decoration: none;
+}
+
+.main{
+	border: 3px dotted #bbb;
+	max-width: 600px;
+	width: 80%;
+	border-radius: 15px;
+	margin: 0 auto;         <!-- USE TO CENTER -->
+
+}
+.main h1{
+	font-family: tahoma, sans-serif;
+	text-align: center;
+}
+.container{
+	padding: 2px 16px;
+	background-color: #f1f1f1
+	max-height: 500px;
+}
+.promo{
+	background-color: dimgray;
+	padding: 3px;
+}
+.expire{
+	color: red;
+}
+
+
+
+.p{
+	text-align: center;
+	position: relative;
+	top: 100px;
+}
+
+footer{
+	text-align: center;
+	position: relative
+	top: 100px;
+}

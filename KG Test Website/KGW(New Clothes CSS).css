@@ -1,0 +1,63 @@
+header{
+	color: pink;
+	background-color: dimgray;
+	text-align: center;
+}
+
+.link{
+	float: left;
+	width: 18%;
+	border: 2px solid dimgray;
+	box-sizing: border-box;
+	background-color: gray; 
+	margin: 0px 4px 4px 4px;
+}
+heading{
+	text-align: center;
+}
+a:visited{
+	color: black;
+}
+a:hover{
+	color: red;
+}
+a{
+	text-decoration: none;
+}
+
+.new1 hr{
+	border: 1px solid dimgray;
+	width: 100%;
+}
+
+body{
+	background-color: #ffccff; <!-- PINK -->
+}
+
+.clothes{
+	float: right;
+	width: 25%;
+	position: relative;
+	top: 50px;
+	border: 2px solid black;
+	box-sizing: border-box;
+	margin: 5px;
+	padding-left: 15px;
+	
+}
+.clothes h3{
+	text-decoration: underline;
+}
+
+sidebar{
+	float: left;
+	width: 20%;
+	position: relative;
+	top: 50px;
+}
+
+.info{
+	border: 2px solid black;
+	padding: 5px;
+	margin-top: 3px;
+}

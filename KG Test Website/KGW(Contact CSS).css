@@ -1,0 +1,92 @@
+header{
+	color: 00cc00;
+	background-color: dimgray;
+	text-align: center;
+}
+
+.link{
+	float: left;
+	width: 18%;
+	border: 2px solid dimgray;
+	box-sizing: border-box;
+	background-color: gray; 
+	margin: 0px 4px 4px 4px;
+}
+heading{
+	text-align: center;
+}
+.clr{
+	clear: both;
+}
+
+a:visited{
+	color: black;
+}
+a:hover{
+	color: red;
+}
+a{
+	text-decoration: none;
+}
+.new1 hr{
+	border: 1px solid dimgray;
+	width: 100%;
+}
+
+body{
+	background-color: #00ff00;
+}
+
+main{
+	top: 50px;
+	float: left;
+
+	padding: 0px 100px 25px 5px;
+	margin: 10px;
+}
+
+main a{
+	text-decoration: underline;
+	position: absolute;
+}
+
+.my-form{
+	padding: 10px;
+	margin: 10px;
+	float: left;
+	position: relative;
+	border: 1px solid dimgray;
+
+}
+
+.my-form .form-group{
+	padding-bottom: 15px;
+}
+
+.my-form label{
+	display: block;
+}
+
+.my-form input{
+	padding: 8px;
+	width: 100%;
+}
+
+sidebar{
+	float: right;
+	width: 30%;
+
+}
+sidebar h5{
+	text-align: center;
+}
+
+.p{
+	text-align: center;
+	position: relative;
+	top: 150px;
+}
+
+footer{
+	text-align: center;
+}

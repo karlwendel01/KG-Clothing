@@ -1,0 +1,69 @@
+header{
+	color: orange;
+	background-color: dimgray;
+	text-align: center;
+}
+
+.link{
+	float: left;
+	width: 18%;
+	border: 2px solid dimgray;
+	box-sizing: border-box;
+	background-color: gray; 
+	margin: 0px 4px 4px 4px;
+}
+heading{
+	text-align: center;
+}
+a:visited{
+	color: black;
+}
+a:hover{
+	color: red;
+}
+a{
+	text-decoration: none;
+}
+
+.new1 hr{
+	border: 1px solid dimgray;
+	width: 100%;
+}
+
+body{
+	background-color: #ffa64d; 
+}
+
+.clothes{
+	float: right;
+	width: 25%;
+	position: relative;
+	padding-left: 15px;
+	border: 2px solid black;
+	box-sizing: border-box;
+	margin: 5px;
+	top: 50px;
+}
+.clothes h3{
+	text-decoration: underline;
+}
+
+main{
+	float: right;
+	width: 80%;
+	display: flex;
+	flexwrap: wrap;
+}
+
+sidebar{
+	float: left;
+	width: 20%;
+	position: relative;
+	top: 50px;
+}
+
+.info{
+	border: 2px solid black;
+	padding: 5px;
+	margin-top: 3px;
+}
